@@ -1,0 +1,22 @@
+{
+  "name": "digiocean",
+  "version": "1.0.0",
+  "description": "testing digiocean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gooms-gusto/digiocean.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gooms-gusto/digiocean/issues"
+  },
+  "homepage": "https://github.com/gooms-gusto/digiocean#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
